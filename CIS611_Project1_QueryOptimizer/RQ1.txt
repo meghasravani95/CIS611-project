@@ -1,0 +1,6 @@
+Join t1 t3
+GroupBy temp0
+Join t1 temp1
+Join t2 temp2
+Project temp3
+GroupBy temp3
